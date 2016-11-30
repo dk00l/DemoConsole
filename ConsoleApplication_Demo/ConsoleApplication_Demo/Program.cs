@@ -10,6 +10,8 @@ namespace ConsoleApplication_Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Iniciando con git");
+            Console.ReadLine();
         }
     }
 }
