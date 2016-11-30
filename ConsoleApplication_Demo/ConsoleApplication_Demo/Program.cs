@@ -12,6 +12,8 @@ namespace ConsoleApplication_Demo
         {
             Console.WriteLine("Iniciando con git");
             Console.ReadLine();
+            Console.WriteLine("Segunda linea de codigo");
+            Console.ReadLine();
         }
     }
 }
